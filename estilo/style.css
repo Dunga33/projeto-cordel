@@ -46,7 +46,7 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: var(--fonte3), 16px;
+    font-family: var(--fonte3), 12px;
     font-size: 4.5vw;
 }
 section > p{
